@@ -7,7 +7,7 @@ from streamlit_option_menu import option_menu
 
 # import streamlit as st
 # import streamlit.components.v1 as com
-# from streamlit_option_menu import option_menu
+from streamlit_option_menu import option_menu
 # from streamlit.components.v1 import html
 
 
